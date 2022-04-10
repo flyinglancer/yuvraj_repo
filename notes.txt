@@ -1,0 +1,9 @@
+list of commands 
+1.git init
+.. git config
+2. create new file using touch commands
+3.git add
+5.git add filename
+6. git commit -m"any sentence that you want to enter"
+7. git status 
+8. git log 
